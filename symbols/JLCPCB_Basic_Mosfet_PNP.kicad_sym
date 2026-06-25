@@ -114,7 +114,7 @@
 				)
 			)
 		)
-		(property "Stock" "779491"
+		(property "Stock" "715902"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -125,7 +125,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0711"
+		(property "unit_price_10" "$0.0716"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -136,7 +136,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0592"
+		(property "unit_price_100" "$0.0596"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -147,7 +147,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0529"
+		(property "unit_price_1000" "$0.0532"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3238,7 +3238,7 @@
 				)
 			)
 		)
-		(property "Stock" "135097"
+		(property "Stock" "100653"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3249,7 +3249,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.022"
+		(property "unit_price_10" "$0.0222"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3260,7 +3260,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.022"
+		(property "unit_price_100" "$0.0222"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3271,7 +3271,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0172"
+		(property "unit_price_1000" "$0.0173"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4387,7 +4387,7 @@
 				)
 			)
 		)
-		(property "Stock" "238435"
+		(property "Stock" "298909"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4398,7 +4398,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0735"
+		(property "unit_price_10" "$0.0768"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4409,7 +4409,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0606"
+		(property "unit_price_100" "$0.0633"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4420,7 +4420,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.054"
+		(property "unit_price_1000" "$0.0563"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -112,7 +112,7 @@
 				)
 			)
 		)
-		(property "Stock" "5880366"
+		(property "Stock" "5015719"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123,7 +123,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0111"
+		(property "unit_price_10" "$0.0112"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -134,7 +134,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0111"
+		(property "unit_price_100" "$0.0112"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4240,7 +4240,7 @@
 				)
 			)
 		)
-		(property "Stock" "1318481"
+		(property "Stock" "1059176"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4251,7 +4251,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0243"
+		(property "unit_price_10" "$0.0261"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4262,7 +4262,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0243"
+		(property "unit_price_100" "$0.0261"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4273,7 +4273,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0161"
+		(property "unit_price_1000" "$0.0179"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16814,6 +16814,239 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "SK810B"
+		(extends "D_Schottky")
+		(property "Reference" "D"
+			(at 0 2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK810B"
+			(at 0 -2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603373079238090752"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C28646299"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "hongjiacheng"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFGPN" "SK810B"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Stock" "4871"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "unit_price_10" "$0.1174"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "unit_price_100" "$0.0926"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "unit_price_1000" "$0.0708"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Current - Rectified" "8A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Diode Configuration" "Standalone"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "150A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55℃~+125℃"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "20uA@100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage - DC Reverse(Vr)" "100V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "850mV@8A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "SK84C"
 		(extends "D_Schottky")
 		(property "Reference" "D"
@@ -23826,7 +24059,7 @@
 				)
 			)
 		)
-		(property "Stock" "6834"
+		(property "Stock" "16808"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23837,7 +24070,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.2636"
+		(property "unit_price_10" "$0.3329"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23848,7 +24081,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.213"
+		(property "unit_price_100" "$0.2691"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23859,7 +24092,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.1645"
+		(property "unit_price_1000" "$0.2078"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
