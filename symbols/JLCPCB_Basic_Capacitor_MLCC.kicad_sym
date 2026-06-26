@@ -10989,7 +10989,7 @@
 				)
 			)
 		)
-		(property "Stock" "411770"
+		(property "Stock" "437671"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11000,7 +11000,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0222"
+		(property "unit_price_10" "$0.0505"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11011,7 +11011,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0186"
+		(property "unit_price_100" "$0.0441"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11022,7 +11022,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0168"
+		(property "unit_price_1000" "$0.0412"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
