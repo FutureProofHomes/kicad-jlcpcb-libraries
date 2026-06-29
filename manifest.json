@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:06:23Z",
+  "generated_at": "2026-06-29T17:24:27Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 11,
@@ -8,8 +8,8 @@
       {"file": "source/output/JLCPCB_Basic_BJT_PNP.kicad_sym", "sha256": "0b2da491cfb41d8d5a04150a0d25239e743ad29308a7429e3cfa4d37628fcf11"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_MLCC.kicad_sym", "sha256": "0ac68be45e21850053a8bc492adc588c76f527417f00f27a051be90f16c2eaa0"},
       {"file": "source/output/JLCPCB_Basic_Diode-General.kicad_sym", "sha256": "5f3cbaa5514a6d0e2d70f666935ba385f21e982445568b9b659401d3b876ce95"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "14191940369263c839058d97f3a510caa442bcb122c5cf5e064b2ad0615a54c5"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Zener.kicad_sym", "sha256": "1b670cee35d2b1fbb4dd0b65ecbc428010f2257e37a4b01c42911e368164f043"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "dc58abcf5aabcf98ddd9f66dfe5a2a46fca69a0b04191c40659b1b47685a6faa"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Zener.kicad_sym", "sha256": "39d2a27f859c66707e4f2f38765a1bb113f8af535a2fd401ffb60507a37ce8bf"},
       {"file": "source/output/JLCPCB_Basic_FerriteBead.kicad_sym", "sha256": "610625bf20ec67b9f0e1b76de5d4cf7e88f1298548e8b1a4b15f65638d27f657"},
       {"file": "source/output/JLCPCB_Basic_LED.kicad_sym", "sha256": "53b1cd15fa287fd5c4de50b160fe46ac22eaea679592608a8a28a933b422fd5d"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_NPN.kicad_sym", "sha256": "5ebb250cae594a82ce1c78c194af29a02921144974902032d673e8ce46f1b4cc"},
