@@ -37,7 +37,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8564879615568478208"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724090244980736"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48,7 +48,7 @@
 				)
 			)
 		)
-		(property "Description" "-55℃~+150℃ 1 N-channel 1.6V 1.6nC@10V 115mA 225mW 25pF 50pF 5pF 60V 900mΩ@10V N-Channel SOT-23 MOSFETs ROHS"
+		(property "Description" "1 N-channel 115mA 2.5V 225mW 50pF 5pF 5Ω@10V 60V SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -81,7 +81,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C7420321"
+		(property "LCSC" "C8545"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -92,7 +92,7 @@
 				)
 			)
 		)
-		(property "MFG" "hongjiacheng"
+		(property "MFG" "Jiangsu Changjing Electronics Technology Co Ltd"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -114,7 +114,7 @@
 				)
 			)
 		)
-		(property "Stock" "394498"
+		(property "Stock" "432340"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -125,7 +125,7 @@
 				)
 			)
 		)
-		(property "unit_price_10" "$0.0164"
+		(property "unit_price_10" "$0.0155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -136,7 +136,7 @@
 				)
 			)
 		)
-		(property "unit_price_100" "$0.0164"
+		(property "unit_price_100" "$0.0155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -147,7 +147,7 @@
 				)
 			)
 		)
-		(property "unit_price_1000" "$0.0135"
+		(property "unit_price_1000" "$0.0123"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -180,18 +180,7 @@
 				)
 			)
 		)
-		(property "Gate Charge(Qg)" "1.6nC@10V"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Gate Threshold Voltage (Vgs(th))" "1.6V"
+		(property "Gate Threshold Voltage (Vgs(th))" "2.5V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -224,17 +213,6 @@
 				)
 			)
 		)
-		(property "Operating Temperature" "-55℃~+150℃"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Output Capacitance(Coss)" "25pF"
 			(at 0 0 0)
 			(show_name no)
@@ -257,7 +235,7 @@
 				)
 			)
 		)
-		(property "RDS(on)" "900mΩ@10V"
+		(property "RDS(on)" "5Ω@10V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -280,6 +258,17 @@
 			)
 		)
 		(property "Type" "N-Channel"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vgs" "±20V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -794,6 +783,296 @@
 			)
 		)
 		(property "Pd - Power Dissipation" "200mW"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "RDS(on)" "900mΩ@10V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Transfer Capacitance (Crss@Vds)" "5pF"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "N-Channel"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "2N7002_Alt1"
+		(extends "Q_NMOS_GSD")
+		(property "Reference" "Q"
+			(at 5.08 1.905 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2N7002"
+			(at 5.08 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8564879615568478208"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-55℃~+150℃ 1 N-channel 1.6V 1.6nC@10V 115mA 225mW 25pF 50pF 5pF 60V 900mΩ@10V N-Channel SOT-23 MOSFETs ROHS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420321"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "hongjiacheng"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFGPN" "2N7002"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Stock" "394498"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "unit_price_10" "$0.0164"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "unit_price_100" "$0.0164"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "unit_price_1000" "$0.0135"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Current - Continuous Drain(Id)" "115mA"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drain to Source Voltage" "60V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gate Charge(Qg)" "1.6nC@10V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gate Threshold Voltage (Vgs(th))" "1.6V"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Input Capacitance(Ciss)" "50pF"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Number" "1 N-channel"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Operating Temperature" "-55℃~+150℃"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Output Capacitance(Coss)" "25pF"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pd - Power Dissipation" "225mW"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
