@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T14:06:03Z",
+  "generated_at": "2026-07-13T09:47:45Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 16,
@@ -12,13 +12,13 @@
       {"file": "source/output/JLCPCB_Basic_Diode-General.kicad_sym", "sha256": "8de9fb48142400efa2c909a951123e8f8308d285032af2d52690de921efbcc96"},
       {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "51e8abf58f70b844cf9499be7297f03601fb49f6a862d7c171d22aa63ea0d4b9"},
       {"file": "source/output/JLCPCB_Basic_Diode-Switching.kicad_sym", "sha256": "4e66b3073eccbabd2140adcad88ee679272d10f5692f36a940aa71a66d442144"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Zener.kicad_sym", "sha256": "db1834580896e97ebdf16328dfe91a227cb36d761e2651c5c78f4b722599adf1"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Zener.kicad_sym", "sha256": "ef3c05fd152ffc71a41700baad834295dbf6d8281a021f39135135a62a386bb9"},
       {"file": "source/output/JLCPCB_Basic_FerriteBead.kicad_sym", "sha256": "610625bf20ec67b9f0e1b76de5d4cf7e88f1298548e8b1a4b15f65638d27f657"},
       {"file": "source/output/JLCPCB_Basic_Inductor.kicad_sym", "sha256": "be7827b479eccbd52382a946fb5f40d6406b0845505ed4e25983192d73c6ca96"},
       {"file": "source/output/JLCPCB_Basic_LED.kicad_sym", "sha256": "53b1cd15fa287fd5c4de50b160fe46ac22eaea679592608a8a28a933b422fd5d"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_NPN.kicad_sym", "sha256": "5bb103cef4c18c1c56a4e2058bfa521d12dfabbc5ea4514e5a903162252c164f"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_PNP.kicad_sym", "sha256": "4c9e569667697c59ecad9bd6670ff2159b87d880fb97daae959040dd5cacfdb8"},
-      {"file": "source/output/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "d1d595912b24ae9193843f5d0add1b1f16b1f9cc09e42dd4ee5ca35e2802da97"},
+      {"file": "source/output/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "22fd663dc242dc91d388bf1451c5aa64a1073f03a65c347088d8527a11654902"},
       {"file": "source/output/JLCPCB_Basic_Resistor_Array.kicad_sym", "sha256": "9536ff2822de2400c432714cbef438237262dfabb07254585b1344c23c4a7af4"}
   ]
 }
