@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-13T15:31:55Z",
+  "generated_at": "2026-07-13T21:51:18Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 16,
   "files_sha256": [
-      {"file": "source/output/JLCPCB_Basic_BJT_NPN.kicad_sym", "sha256": "919ef7cdebd60dab3a9c3a2f37102bc2d34321386c3a4d0bd486d7be865ad584"},
+      {"file": "source/output/JLCPCB_Basic_BJT_NPN.kicad_sym", "sha256": "bb3fa0b82e6bf71794346b0926ad2cc36b10ddf5f624a0304d0481502dbeace5"},
       {"file": "source/output/JLCPCB_Basic_BJT_PNP.kicad_sym", "sha256": "89bc11853d54f5f666e30c2b865c5be40f21e04aff155677dd9c6a3a6dad5b5d"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_MLCC.kicad_sym", "sha256": "80869a7cb92f1e05bb1c7e435df752671700fe0e0194b7df20a4ef2e525933d1"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_Tantalum.kicad_sym", "sha256": "93082b933ba7667f61a9b818e88deebebd6deebadf904a82cf75c47e07458d4b"},
@@ -18,7 +18,7 @@
       {"file": "source/output/JLCPCB_Basic_LED.kicad_sym", "sha256": "53b1cd15fa287fd5c4de50b160fe46ac22eaea679592608a8a28a933b422fd5d"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_NPN.kicad_sym", "sha256": "5bb103cef4c18c1c56a4e2058bfa521d12dfabbc5ea4514e5a903162252c164f"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_PNP.kicad_sym", "sha256": "4c9e569667697c59ecad9bd6670ff2159b87d880fb97daae959040dd5cacfdb8"},
-      {"file": "source/output/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "bb3a9d74b3667d8f9a3fa7bc0c688e2f7ad9c36c5f58a88a747d9f7a90d8e418"},
+      {"file": "source/output/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "2dc704e475034cdbe14699f20a9f7bbee1b2a4d8f9365a070aacbfe8103792db"},
       {"file": "source/output/JLCPCB_Basic_Resistor_Array.kicad_sym", "sha256": "9536ff2822de2400c432714cbef438237262dfabb07254585b1344c23c4a7af4"}
   ]
 }
