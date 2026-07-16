@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-15T14:13:18Z",
+  "generated_at": "2026-07-16T07:21:18Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 16,
   "files_sha256": [
-      {"file": "source/output/JLCPCB_Basic_BJT_NPN.kicad_sym", "sha256": "bb3fa0b82e6bf71794346b0926ad2cc36b10ddf5f624a0304d0481502dbeace5"},
+      {"file": "source/output/JLCPCB_Basic_BJT_NPN.kicad_sym", "sha256": "919ef7cdebd60dab3a9c3a2f37102bc2d34321386c3a4d0bd486d7be865ad584"},
       {"file": "source/output/JLCPCB_Basic_BJT_PNP.kicad_sym", "sha256": "89bc11853d54f5f666e30c2b865c5be40f21e04aff155677dd9c6a3a6dad5b5d"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_MLCC.kicad_sym", "sha256": "80869a7cb92f1e05bb1c7e435df752671700fe0e0194b7df20a4ef2e525933d1"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_Tantalum.kicad_sym", "sha256": "93082b933ba7667f61a9b818e88deebebd6deebadf904a82cf75c47e07458d4b"},
