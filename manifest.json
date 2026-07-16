@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T14:17:44Z",
+  "generated_at": "2026-07-16T21:53:15Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 16,
@@ -8,7 +8,7 @@
       {"file": "source/output/JLCPCB_Basic_BJT_PNP.kicad_sym", "sha256": "89bc11853d54f5f666e30c2b865c5be40f21e04aff155677dd9c6a3a6dad5b5d"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_MLCC.kicad_sym", "sha256": "80869a7cb92f1e05bb1c7e435df752671700fe0e0194b7df20a4ef2e525933d1"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_Tantalum.kicad_sym", "sha256": "93082b933ba7667f61a9b818e88deebebd6deebadf904a82cf75c47e07458d4b"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Fast_Recovery.kicad_sym", "sha256": "160c46b40472bf65edb578a801888b746622e25166b3b38c6d8c5ba7c4e96789"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Fast_Recovery.kicad_sym", "sha256": "8de31a224f979ec8645fb62267796aa54e8d241ff7f9b1e4f83f4a48f289736a"},
       {"file": "source/output/JLCPCB_Basic_Diode-General.kicad_sym", "sha256": "8de9fb48142400efa2c909a951123e8f8308d285032af2d52690de921efbcc96"},
       {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "51e8abf58f70b844cf9499be7297f03601fb49f6a862d7c171d22aa63ea0d4b9"},
       {"file": "source/output/JLCPCB_Basic_Diode-Switching.kicad_sym", "sha256": "4e66b3073eccbabd2140adcad88ee679272d10f5692f36a940aa71a66d442144"},
