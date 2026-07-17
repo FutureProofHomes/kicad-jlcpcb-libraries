@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T21:53:15Z",
+  "generated_at": "2026-07-17T07:19:25Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 16,
@@ -8,7 +8,7 @@
       {"file": "source/output/JLCPCB_Basic_BJT_PNP.kicad_sym", "sha256": "89bc11853d54f5f666e30c2b865c5be40f21e04aff155677dd9c6a3a6dad5b5d"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_MLCC.kicad_sym", "sha256": "80869a7cb92f1e05bb1c7e435df752671700fe0e0194b7df20a4ef2e525933d1"},
       {"file": "source/output/JLCPCB_Basic_Capacitor_Tantalum.kicad_sym", "sha256": "93082b933ba7667f61a9b818e88deebebd6deebadf904a82cf75c47e07458d4b"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Fast_Recovery.kicad_sym", "sha256": "8de31a224f979ec8645fb62267796aa54e8d241ff7f9b1e4f83f4a48f289736a"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Fast_Recovery.kicad_sym", "sha256": "160c46b40472bf65edb578a801888b746622e25166b3b38c6d8c5ba7c4e96789"},
       {"file": "source/output/JLCPCB_Basic_Diode-General.kicad_sym", "sha256": "8de9fb48142400efa2c909a951123e8f8308d285032af2d52690de921efbcc96"},
       {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "51e8abf58f70b844cf9499be7297f03601fb49f6a862d7c171d22aa63ea0d4b9"},
       {"file": "source/output/JLCPCB_Basic_Diode-Switching.kicad_sym", "sha256": "4e66b3073eccbabd2140adcad88ee679272d10f5692f36a940aa71a66d442144"},
@@ -18,7 +18,7 @@
       {"file": "source/output/JLCPCB_Basic_LED.kicad_sym", "sha256": "53b1cd15fa287fd5c4de50b160fe46ac22eaea679592608a8a28a933b422fd5d"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_NPN.kicad_sym", "sha256": "5bb103cef4c18c1c56a4e2058bfa521d12dfabbc5ea4514e5a903162252c164f"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_PNP.kicad_sym", "sha256": "4c9e569667697c59ecad9bd6670ff2159b87d880fb97daae959040dd5cacfdb8"},
-      {"file": "source/output/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "3c18619b536bb73f63792308c066d49685a4c4ca9bdd88f140d47629831e99cd"},
+      {"file": "source/output/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "33bfb4fc77a1a69684a7b115dc31406f6b9ce27f4f8e1a28af65dc2d0e3922f8"},
       {"file": "source/output/JLCPCB_Basic_Resistor_Array.kicad_sym", "sha256": "9536ff2822de2400c432714cbef438237262dfabb07254585b1344c23c4a7af4"}
   ]
 }
