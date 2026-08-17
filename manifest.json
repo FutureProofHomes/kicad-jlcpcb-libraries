@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:44:00Z",
+  "generated_at": "2026-08-17T05:46:43Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 16,
@@ -18,7 +18,7 @@
       {"file": "source/output/JLCPCB_Basic_LED.kicad_sym", "sha256": "53b1cd15fa287fd5c4de50b160fe46ac22eaea679592608a8a28a933b422fd5d"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_NPN.kicad_sym", "sha256": "5bb103cef4c18c1c56a4e2058bfa521d12dfabbc5ea4514e5a903162252c164f"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_PNP.kicad_sym", "sha256": "f706743c4d2da245cbb0b2280e8025c1541b6bb5eed8cc02e601c791ef9db36f"},
-      {"file": "source/output/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "b47e520d6eaaf76071d67201881698c4d1ce4990c1296e8dc8f4ccf9203c2037"},
+      {"file": "source/output/JLCPCB_Basic_Resistor.kicad_sym", "sha256": "885d1d2399e485a0b329735bf906607c4676bdb9c11f3fa19996aafa1135b11f"},
       {"file": "source/output/JLCPCB_Basic_Resistor_Array.kicad_sym", "sha256": "9536ff2822de2400c432714cbef438237262dfabb07254585b1344c23c4a7af4"}
   ]
 }
