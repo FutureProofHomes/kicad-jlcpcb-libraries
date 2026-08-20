@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:43:03Z",
+  "generated_at": "2026-08-20T05:45:25Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 16,
@@ -10,9 +10,9 @@
       {"file": "source/output/JLCPCB_Basic_Capacitor_Tantalum.kicad_sym", "sha256": "93082b933ba7667f61a9b818e88deebebd6deebadf904a82cf75c47e07458d4b"},
       {"file": "source/output/JLCPCB_Basic_Diode-Fast_Recovery.kicad_sym", "sha256": "160c46b40472bf65edb578a801888b746622e25166b3b38c6d8c5ba7c4e96789"},
       {"file": "source/output/JLCPCB_Basic_Diode-General.kicad_sym", "sha256": "8de9fb48142400efa2c909a951123e8f8308d285032af2d52690de921efbcc96"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "e7484a5c0bc2721d8b5bc9c7eaa69ca2900497652968fe9816fc7a1f2590998a"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "26453177a54a7207a3738f7c561e9b65877b17d2500966c319836264f9823478"},
       {"file": "source/output/JLCPCB_Basic_Diode-Switching.kicad_sym", "sha256": "4e66b3073eccbabd2140adcad88ee679272d10f5692f36a940aa71a66d442144"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Zener.kicad_sym", "sha256": "df5698e304ed3f4446d5c651db15549c21f15c747a6377fcb9efa6f1e78f83c3"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Zener.kicad_sym", "sha256": "d3250a8c43aca8a62c1df30e00532e355a4d846f04b5b6d99df878346fb3d5da"},
       {"file": "source/output/JLCPCB_Basic_FerriteBead.kicad_sym", "sha256": "610625bf20ec67b9f0e1b76de5d4cf7e88f1298548e8b1a4b15f65638d27f657"},
       {"file": "source/output/JLCPCB_Basic_Inductor.kicad_sym", "sha256": "be7827b479eccbd52382a946fb5f40d6406b0845505ed4e25983192d73c6ca96"},
       {"file": "source/output/JLCPCB_Basic_LED.kicad_sym", "sha256": "53b1cd15fa287fd5c4de50b160fe46ac22eaea679592608a8a28a933b422fd5d"},
