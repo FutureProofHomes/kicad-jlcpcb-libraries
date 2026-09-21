@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:39:56Z",
+  "generated_at": "2026-09-21T23:34:41Z",
   "source": "source/output",
   "destination": "libraries/symbols",
   "file_count": 8,
@@ -8,8 +8,8 @@
       {"file": "source/output/JLCPCB_Basic_BJT_PNP.kicad_sym", "sha256": "b5ff6ab34e247b820820e251b55a91683c5c8a3b0d064a921ac3f956916f5811"},
       {"file": "source/output/JLCPCB_Basic_Diode-Fast_Recovery.kicad_sym", "sha256": "13a65a0a6738a92423e18a345167d7b462627e07ca9b3708ade6822156772e92"},
       {"file": "source/output/JLCPCB_Basic_Diode-General.kicad_sym", "sha256": "cc6a3cbafe96b0cf70e7cdcd91c4263d2c320b4d52da6a6e367a7c52423d9677"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "a7d3809cd0696ae1b97f80702033e26cf0d8de18c3e78160bfa92cb601e1b8f6"},
-      {"file": "source/output/JLCPCB_Basic_Diode-Switching.kicad_sym", "sha256": "9bf887707a0a951e6ae02e0d6ec0727cf2660edbc0569f500bfa9e788a7c4226"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Schottky.kicad_sym", "sha256": "19b8241985b635574a0e326ce1c659bd90b6866b444019a0b7cfa233fef67f06"},
+      {"file": "source/output/JLCPCB_Basic_Diode-Switching.kicad_sym", "sha256": "3d252b7792209b7c53a8b38ea8987335a515b64f3b9099d81ddd64ff3a9755d1"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_NPN.kicad_sym", "sha256": "57a97eace1d0a1c1b80b139a6d9ba54d44a7c1754cbc1387f5560366416117c9"},
       {"file": "source/output/JLCPCB_Basic_Mosfet_PNP.kicad_sym", "sha256": "2abfd533d4cc3c6add38ddb5d522975b60854fe126d5a69cd14874f86dc047f5"}
   ]
